@@ -1,0 +1,11 @@
+id,symptoms,disease
+1,"fever,cough,headache",Flu
+2,"fever,chills,headache",Malaria
+3,"cough,sneezing,runny nose",Cold
+4,"abdominal pain,diarrhea,dehydration",Diarrhea
+5,"rash,itching",Skin Infection
+6,"headache,nausea,photophobia",Migraine
+7,"fever,cough,shortness of breath",Pneumonia
+8,"fatigue,weight loss,fever",Tuberculosis
+9,"none",Healthy
+10,"fever,sore throat,cough",Flu

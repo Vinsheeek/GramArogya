@@ -1,0 +1,10 @@
+disease,precautions
+Flu,"Drink warm fluids;Rest;Paracetamol if fever high;See doctor if breathing difficulty"
+Malaria,"Use mosquito nets;Take antimalarial after testing;Stay hydrated;See doctor immediately if high fever"
+Cold,"Rest;Steam inhalation;Warm fluids;Take OTC decongestant if necessary"
+Diarrhea,"Oral rehydration solution;Clean water;See doctor if >24 hrs or bloody stools"
+Skin Infection,"Keep area clean;Avoid scratching;Consult doctor for antibiotics if spreading"
+Migraine,"Rest in dark room;Hydration;Avoid triggers;See doctor if sudden severe onset"
+Pneumonia,"Seek medical care;Do not delay antibiotics (if prescribed);Monitor breathing;Hospitalize if severe"
+Tuberculosis,"Seek TB clinic/testing;Complete DOTS treatment if positive;Avoid close contact until treated"
+Healthy,"No action needed;Maintain hygiene and balanced diet"
