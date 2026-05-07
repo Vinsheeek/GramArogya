@@ -317,3 +317,12 @@ to build something that is not just technically correct, but also **meaningful a
 git add README.md
 git commit -m "Improved detailed README"
 git push
+
+
+## How to Run
+
+1. Clone the repository  
+2. Install dependencies  
+3. Run the prediction script using sample input  
+
+(Note: This is a prototype system focused on experimentation and design, not production deployment.)
